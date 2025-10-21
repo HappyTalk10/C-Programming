@@ -1,1 +1,19 @@
+# C言語プロジェクトの.gitignore
+
+# 実行ファイル
 radix
+base_converter
+program
+
+# オブジェクトファイル
+*.o
+
+# デフォルトの実行ファイル
+a.out
+
+# Windows用
+*.exe
+
+# ライブラリ
+*.a
+*.so
